@@ -1,6 +1,6 @@
 import datetime
 def sveiciens(vards):
-    return f"Čau, {vards}!"
+    return f"Sveiks, {vards}!"
 
 def datuma_paradisana():
     return f"Šodien ir {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
